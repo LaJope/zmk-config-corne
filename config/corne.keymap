@@ -98,9 +98,9 @@
 
         layer_3 {
             bindings = <
-&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6    &kp F7  &kp F8  &kp F9  &kp F10     &kp F11    &kp F12
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &kp INSERT  &kp HOME   &kp END
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &kp PG_UP   &kp PG_DN  &kp CAPS
+&kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6    &kp F7  &kp F8  &kp F9           &kp F10     &kp F11    &kp F12
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &kp PRINTSCREEN  &kp INSERT  &kp HOME   &kp END
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans           &kp PG_UP   &kp PG_DN  &kp CAPS
                         &trans  &trans  &trans    &trans  &trans  &trans
             >;
         };
